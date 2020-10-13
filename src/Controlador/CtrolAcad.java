@@ -2,6 +2,6 @@ package Controlador;
 
 import java.awt.event.ActionListener;
 
-public class CtrolAcad implements ActionListener{
+public abstract class CtrolAcad implements ActionListener{
 
 }
